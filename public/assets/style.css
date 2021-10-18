@@ -1,0 +1,53 @@
+body{
+    font-family: Montserrat, sans-serif;
+    font-weight: 100;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 300;
+}
+
+.container, .table{
+    margin-top:50px;
+}
+.text-bold{
+    font-weight: 300;
+}
+
+.nav{
+    background-color: #4C85FA!important;
+    padding:20px 50px;
+}
+
+.btn-primary{
+    background-color: #4C85FA!important;
+    border:none;
+}
+
+.link{
+    color: #4C85FA !important;
+}
+
+input{
+    width:100px;
+}
+
+input[type='submit']{
+    width:120px;
+}
+
+footer{
+    background-color: #333;
+    padding:20px 50px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+footer a, footer p{
+    color: white !important;
+}
+
+.search-form{
+    margin-top:25px;
+}
